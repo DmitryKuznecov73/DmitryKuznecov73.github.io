@@ -1,2 +1,2 @@
-# DmitryKuznecov.github.io
+# Дмитрий Кузнецов
 Мой первый сайт
